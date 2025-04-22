@@ -1,6 +1,4 @@
-# Day1-project2
-# 🎯 Number Guessing Game (Python)
-
+# Day1-project2 🎯 Number Guessing Game (Python)
 A fun console-based game where the user tries to guess a number randomly chosen by the computer.
 
 ## 🚀 Features
